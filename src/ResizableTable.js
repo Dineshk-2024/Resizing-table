@@ -9,8 +9,8 @@ const initialColumns = [
 ];
 
 const data = [
-  { name: "Alice", age: 25, email: "alice@example.com" },
-  { name: "Bob", age: 30, email: "bob@example.com" },
+  { name: "Dinesh", age: 25, email: "dinesh@example.com" },
+  { name: "Ganesh", age: 30, email: "Ganesh@example.com" },
   { name: "Charlie", age: 28, email: "charlie@example.com" }
 ];
 
